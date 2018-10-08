@@ -1,0 +1,7 @@
+C:\Users\kokki\Downloads\NBTExplorer-master\NBTExplorer-master\NBTModel\bin\Release\NBTModel.dll
+C:\Users\kokki\Downloads\NBTExplorer-master\NBTExplorer-master\NBTModel\bin\Release\NBTModel.pdb
+C:\Users\kokki\Downloads\NBTExplorer-master\NBTExplorer-master\NBTModel\bin\Release\Substrate.dll
+C:\Users\kokki\Downloads\NBTExplorer-master\NBTExplorer-master\NBTModel\obj\Release\NBTModel.csproj.CoreCompileInputs.cache
+C:\Users\kokki\Downloads\NBTExplorer-master\NBTExplorer-master\NBTModel\obj\Release\NBTModel.csproj.CopyComplete
+C:\Users\kokki\Downloads\NBTExplorer-master\NBTExplorer-master\NBTModel\obj\Release\NBTModel.dll
+C:\Users\kokki\Downloads\NBTExplorer-master\NBTExplorer-master\NBTModel\obj\Release\NBTModel.pdb
